@@ -1,0 +1,79 @@
+﻿Data Year,Plant state abbreviation,Plant name,Plant FIPS state code,Plant FIPS county code,Plant county name,Plant latitude,Plant longitude,Plant primary coal/oil/gas/ other fossil fuel category,Plant annual SO2 emissions (tons),Plant annual SO2 total output emission rate (lb/MWh)
+2018,TN,Allen,47,157,Shelby,35.074087,-90.14868,GAS,916,0.603
+2018,TN,Apalachia,47,139,Polk,35.167712,-84.295601,HYDRO,,
+2018,TN,Bi-County Gas Producers,47,125,Montgomery,36.540556,-87.544444,BIOMASS,3,0.455
+2018,TN,Boone Dam,47,163,Sullivan,36.4403,-82.4381,HYDRO,,
+2018,TN,Brownsville Combustion Turbine Plant,47,075,Haywood,35.5438,-89.198,GAS,2,0.007
+2018,TN,Buffalo Mountain,47,001,Anderson,36.120994,-84.338733,WIND,,
+2018,TN,Buffalo Mountain Energy Center,47,001,Anderson,36.127092,-84.344168,WIND,,
+2018,TN,Bull Run,47,001,Anderson,36.0211,-84.1567,COAL,199,0.282
+2018,TN,Calderwood,47,009,Blount,35.4923,-83.9806,HYDRO,,
+2018,TN,Center Hill,47,041,DeKalb,36.0972,-85.8274,HYDRO,,
+2018,TN,Chattanooga Metropolitan Airport Solar,47,065,Hamilton,35.024583,-85.208617,SOLAR,,
+2018,TN,Cheatham,47,043,Dickson,36.3208,-87.2219,HYDRO,,
+2018,TN,Cherokee Dam,47,089,Jefferson,36.168176,-83.49768,HYDRO,,
+2018,TN,Chestnut Ridge Gas Recovery,47,001,Anderson,36.1172,-84.0317,BIOMASS,6,0.411
+2018,TN,Chickamauga,47,065,Hamilton,35.101791,-85.229467,HYDRO,,
+2018,TN,Chilhowee,47,009,Blount,35.5453,-84.0503,HYDRO,,
+2018,TN,Cordell Hull,47,159,Smith,36.289539,-85.94416,HYDRO,,
+2018,TN,Cumberland,47,161,Stewart,36.3903,-87.6539,COAL,"7,608",1.457
+2018,TN,Dale Hollow,47,027,Clay,36.5378,-85.4517,HYDRO,,
+2018,TN,Domtar Kingsport Mill,47,163,Sullivan,36.5489,-82.5667,BIOMASS,354,2.336
+2018,TN,Douglas Dam,47,155,Sevier,35.9623,-83.5393,HYDRO,,
+2018,TN,Eastman Chemical Company,47,163,Sullivan,36.5219,-82.5431,COAL,"1,842",3.191
+2018,TN,Fort Loudoun,47,105,Loudon,35.7917,-84.2431,HYDRO,,
+2018,TN,Fort Patrick Henry,47,163,Sullivan,36.4982,-82.5086,HYDRO,,
+2018,TN,Franklin (TN),47,051,Franklin,35.270556,-86.139444,GAS,,
+2018,TN,Gallatin,47,165,Sumner,36.3156,-86.4006,COAL,"1,839",0.709
+2018,TN,Gleason Combustion Turbine Plant,47,183,Weakley,36.2454,-88.612,GAS,2,0.007
+2018,TN,Great Falls (TN),47,177,Warren,35.806732,-85.634063,HYDRO,,
+2018,TN,Haywood Solar,47,075,Haywood,35.5775,-89.286944,SOLAR,,
+2018,TN,IKEA Memphis 508,47,157,Shelby,35.189991,-89.799302,SOLAR,,
+2018,TN,J P Priest,47,037,Davidson,36.1564,-86.6186,HYDRO,,
+2018,TN,John Sevier,47,073,Hawkins,36.3767,-82.9639,GAS,11,0.005
+2018,TN,Johnsonville,47,085,Humphreys,36.0278,-87.9861,GAS,25,0.154
+2018,TN,Kingston,47,145,Roane,35.8992,-84.5194,COAL,"1,327",0.871
+2018,TN,Lagoon Creek,47,075,Haywood,35.6578,-89.3964,GAS,9,0.005
+2018,TN,Latitude Solar Center,47,069,Hardeman,35.306387,-89.167539,SOLAR,,
+2018,TN,McMinnville,47,177,Warren,35.705,-85.7439,OIL,2,3.217
+2018,TN,Melton Hill,47,105,Loudon,35.8853,-84.3003,HYDRO,,
+2018,TN,Middle Point Landfill Gas Recovery,47,149,Rutherford,35.9342,-86.3756,BIOMASS,,
+2018,TN,Millington Solar Farm,47,157,Shelby,35.351533,-89.854725,SOLAR,,
+2018,TN,Mountain Home Energy Center,47,179,Washington,36.309609,-82.377504,GAS,1,0.089
+2018,TN,MTSU Power Co-Gen Plant,47,149,Rutherford,35.851389,-86.365,GAS,0,0.020
+2018,TN,Mulberry Farm LLC,47,109,McNairy,35.131944,-88.586667,SOLAR,,
+2018,TN,Music City Community Solar,47,037,Davidson,36.248832,-86.746776,SOLAR,,
+2018,TN,Nickajack,47,115,Marion,35.0017,-85.6218,HYDRO,,
+2018,TN,Norris Dam,47,001,Anderson,36.2242,-84.0914,HYDRO,,
+2018,TN,Ocoee 1,47,139,Polk,35.0947,-84.6478,HYDRO,,
+2018,TN,Ocoee 2,47,139,Polk,35.082271,-84.49115,HYDRO,,
+2018,TN,Ocoee 3,47,139,Polk,35.075,-84.4833,HYDRO,,
+2018,TN,Old Hickory,47,165,Sumner,36.2972,-86.6556,HYDRO,,
+2018,TN,Opryland USA,47,037,Davidson,36.211389,-86.694444,GAS,0,0.017
+2018,TN,Packaging Corporation of America,47,071,Hardin,35.0471,-88.2661,BIOMASS,410,2.085
+2018,TN,Pickwick Landing Dam,47,071,Hardin,35.0683,-88.2494,HYDRO,,
+2018,TN,Powell Valley,47,067,Hancock,36.5748,-83.0321,OIL,1,2.969
+2018,TN,Providence Solar,47,113,Madison,35.578333,-89.047779,SOLAR,,
+2018,TN,Raccoon Mountain,47,065,Hamilton,35.055795,-85.387934,HYDRO,,
+2018,TN,Resolute Forest Products - Calhoun Ops,47,107,McMinn,35.2964,-84.7569,COAL,272,1.674
+2018,TN,Selmer Farm LLC,47,109,McNairy,35.149722,-88.555278,SOLAR,,
+2018,TN,Selmer I,47,109,McNairy,35.140556,-88.551111,SOLAR,,
+2018,TN,Selmer II,47,109,McNairy,35.166111,-88.646667,SOLAR,,
+2018,TN,Sequoyah,47,065,Hamilton,35.2267,-85.0917,NUCLEAR,,
+2018,TN,Somerville Solar,47,047,Fayette,35.22492,-89.35083,SOLAR,,
+2018,TN,South Holston,47,163,Sullivan,36.523174,-82.090213,HYDRO,,
+2018,TN,SR Innovation - NIKE PV,47,157,Shelby,35.300066,-89.962991,SOLAR,,
+2018,TN,SR Jonesborough,47,179,Washington,36.252039,-82.520924,SOLAR,,
+2018,TN,Tims Ford,47,051,Franklin,35.1967,-86.2783,HYDRO,,
+2018,TN,University of Tennessee Steam Plant,47,093,Knox,35.949209,-83.926065,GAS,0,0.018
+2018,TN,Vanderbilt University Power Plant,47,037,Davidson,36.145896,-86.803833,GAS,1,0.016
+2018,TN,Volkswagen Solar System,47,065,Hamilton,35.0975,-85.126944,SOLAR,,
+2018,TN,Watauga,47,019,Carter,36.3413,-82.1264,HYDRO,,
+2018,TN,Watts Bar Fossil,47,143,Rhea,35.6108,-84.7811,COAL,,
+2018,TN,Watts Bar Hydro,47,143,Rhea,35.619673,-84.785527,HYDRO,,
+2018,TN,Watts Bar Nuclear Plant,47,143,Rhea,35.6021,-84.7895,NUCLEAR,,
+2018,TN,West Camden,47,005,Benton,36.057892,-88.141965,BIOMASS,6,0.345
+2018,TN,West Tennessee Solar Farm,47,075,Haywood,35.408611,-89.3875,SOLAR,,
+2018,TN,Wilbur,47,019,Carter,36.341667,-82.126389,HYDRO,,
+2018,TN,Wildberry,47,047,Fayette,35.058165,-89.368619,SOLAR,,
+2018,TX,Abbott TP 3,48,187,Guadalupe,29.593951,-98.040734,HYDRO,,
