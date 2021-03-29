@@ -1,0 +1,7 @@
+var towncenter = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "descrip": "Ducktown Town Center" }, "geometry": { "type": "Point", "coordinates": [-84.3827, 35.0359 ] } }
+]
+}
